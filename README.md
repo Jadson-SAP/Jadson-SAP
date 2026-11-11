@@ -2,7 +2,7 @@
 
 **Desenvolvedor Especialista e Consultor SAP Business One | SAP HANA | C#**
 
-Trabalho com SAP Business One desde 2012. Já implantei o ERP, dei suporte e treinamento, cuidei da infraestrutura e hoje desenvolvo soluções sob medida. Atualmente desenvolvo add-ons, integrações e automações para SAP Business One sobre SAP HANA.
+Trabalho com SAP Business One desde 2012. Já implantei, dei suporte e treinamento, cuidei da infraestrutura e hoje também desenvolvo soluções sob medida, como add-ons, integrações e automações para SAP Business One em HANA e SQL Server.
 
 ---
 
@@ -18,10 +18,10 @@ Trabalho com SAP Business One desde 2012. Já implantei o ERP, dei suporte e tre
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 - **SAP Business One:** add-ons com SAP B1 SDK (DI API / UI API), Service Layer, Transaction Notification, pesquisas formatadas, Crystal Reports
-- **SAP HANA:** SQLScript, procedures, triggers, modelagem de dados, HANA Studio, administração (backup, export/import)
+- **SAP HANA:** SQLScript, procedures, triggers, modelagem de dados, HANA Studio, administração (backup, export/import e etc)
 - **Desenvolvimento:** C#, .NET Framework, Windows Services, integrações via ODBC e REST
 - **Infraestrutura:** instalação e upgrade do SAP Business One for HANA em SUSE Linux (SLES), certificados SSL
-- **IA no desenvolvimento:** Claude Code e Google Antigravity
+- **IA no desenvolvimento:** Claude Code IDE e Google Antigravity IDE
 
 ## 🎓 Certificações
 
@@ -33,10 +33,10 @@ Trabalho com SAP Business One desde 2012. Já implantei o ERP, dei suporte e tre
 
 | Período | Empresa | Atuação |
 |---|---|---|
-| 2023 – atual | Elinox Aço Inoxidável | Desenvolvedor Especialista SAP B1 / HANA |
+| 2023 – atual | Elinox Aço Inoxidável | Consultor e Desenvolvedor SAP Business One / HANA |
 | 2019 – 2023 | Intragroup | Consultor, Arquiteto de Soluções e Líder de Soluções |
 | 2018 – 2019 | Alfa Sistemas de Gestão | Consultor SAP Business One e Pré-vendas |
-| 2017 – 2018 | Galutti Automotive | Coordenador de TI |
+| 2017 – 2018 | Galutti Automotive | Coordenador de TI, Consultor SAP Business One |
 | 2012 – 2017 | Ramo Sistemas Digitais | Consultor SAP Business One |
 
 ## 📂 Projetos
